@@ -9,7 +9,7 @@ Ibrohim came to United States 2 years ago in 2018-19. He started off in Joseph B
 Class Schedule
 ---
 1. College Writting 
-2. Phys Ed
+2. Phys Ed  
 3. Algebra 2
 4. English 4
 5. SEP10b 
