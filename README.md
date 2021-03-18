@@ -1,6 +1,6 @@
-Ibrohim Islamov 
+##Ibrohim Islamov## 
 
-High School-Telecommunications
+#igh School-Telecommunications#
 
 ibrohimi9933@hstat.org
 
